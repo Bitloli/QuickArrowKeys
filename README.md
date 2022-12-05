@@ -9,4 +9,6 @@
 
 ## 方法2. 下载QuickArrowKeys.exe并运行
 [Donwload](https://github.com/ishalltear/QuickArrowKeys/blob/master/QuickArrowKeys.exe)
-关于热键可以自己更改，我使用了Caps加ijkl.
+
+
+tips *关于热键可以自己更改，我使用了Caps加ijkl.*
